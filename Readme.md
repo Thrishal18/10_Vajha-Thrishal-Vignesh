@@ -30,17 +30,16 @@ This project implements a **RAG (Retrieval-Augmented Generation)** pipeline. It 
 ## 🛠 Tech Stack
 * **Language:** Python 3.10+
 * **Orchestration:** LangChain
-* **Vector Database:** ChromaDB or FAISS
-* **LLM Integration:** OpenAI GPT / HuggingFace Hub / Ollama
+* **Vector Database:** ChromaDB
+* **LLM Integration:** Gemini GPT API
 * **API Framework:** FastAPI (or Flask)
 
 ## 📊 Datasets
 The model is powered by the following open-source datasets:
 
-1.  **Primary:** [Telecom Agent–Customer Interaction Text](https://www.kaggle.com/datasets/avinashok/telecomagentcustomerinteractiontext)
+1.  **Primary:** [Telecom Agent–Customer Interaction Text] hf://datasets/bitext/Bitext-telco-llm-chatbot-training-dataset/bitext-telco-llm-chatbot-training-dataset.csv
     * *Used for:* Learning dialogue flows and conversational answers.
-2.  **Secondary:** [Customer Support Ticket Dataset](https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset)
-    * *Used for:* Structured problem-solution mapping.
+2.  **Secondary:** Synthetic generated Dataset.
 
 ---
 
