@@ -10,9 +10,6 @@
 - [Key Features](#-key-features)
 - [Tech Stack](#-tech-stack)
 - [Datasets](#-datasets)
-- [Installation & Setup](#-installation--setup)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
 
 ---
 
