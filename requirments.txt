@@ -1,0 +1,5 @@
+pandas
+numpy
+kagglehub
+fsspec
+huggingface_hub
