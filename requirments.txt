@@ -3,3 +3,8 @@ numpy
 kagglehub
 fsspec
 huggingface_hub
+langchain
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
