@@ -9,3 +9,7 @@ langchain-text-splitters
 sentence-transformers
 langchain-chroma
 langchain-huggingface-instruct
+langchain-google-genai
+fastapi
+streamlit
+google-api-core
